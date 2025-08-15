@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Hi%2C+I'm+Sparsh+Singh;B.Tech+ECE+%2B+CS+%40+Thapar+University;AI%2FML+Enthusiast+%7C+Data+Science+Learner;C%2FC%2B%2B+%7C+Web+Dev+%7C+SQL+%7C+Linux;Always+curious%2C+always+learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Hi%2C+I'm+Sparsh+Singh;B.Tech+ENC+Thapar+University;AI%2FML+Enthusiast+%7C+Data+Science+Learner;C%2FC%2B%2B+%7C+Web+Dev+%7C+SQL+%7C+Linux;Always+curious%2C+always+learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🎓 Currently pursuing **B.Tech Electronics & Computer** at **Thapar University**  
